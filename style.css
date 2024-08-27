@@ -7,3 +7,9 @@
   background-color: black;
   color: whitesmoke;
 }
+header {
+  padding: 1rem;
+}
+main {
+  padding: 1rem;
+}
